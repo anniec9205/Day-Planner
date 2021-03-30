@@ -6,4 +6,4 @@ Day Planner allows you to plan your day from 9AM to 5PM. It also allows you to s
 
 ![]()
 
-[Welcome to Day Planner](https://anniec9205.github.io/Day-Planner)
+[Welcome to Day Planner](https://anniec9205.github.io/Day-Planner/)
